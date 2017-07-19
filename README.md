@@ -14,4 +14,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Assumption
-Since point 4 asks to display the title with first name and last name i have initialised it in ngOnInit() and it gets updated every time the button is clicked
+Since point 4 asks to display the title with firstName and lastName I have initialised it in ngOnInit() and it gets updated every time the button is clicked
